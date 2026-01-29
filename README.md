@@ -1,8 +1,3 @@
-<!--
-  README for ritik650
-  Clean, modern GitHub profile README
--->
-
 # 👋 Hi there, I’m Ritik Yadav!
 
 ### ✨ About Me
