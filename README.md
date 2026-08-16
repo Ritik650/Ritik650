@@ -8,11 +8,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikyadav-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-yadav-9447302b7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry9812262@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritik650)
 <!-- Swap this "#" for your portfolio/resume link -->
-<!-- [![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white)](#) -->
+<!--[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white)](#) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritik650&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -34,7 +34,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 
 - 🔭 **Currently building:** end-to-end ML pipelines — from medical image segmentation to production MLOps on GCP
 - 🧩 **Recently shipped:** [NeuroSeg](https://github.com/Ritik650/NeuroSeg) — a brain MRI segmentation, detection & slice-interpolation pipeline
-- 🏆 **Competing with:** Team InnovAIT 
+- 🏆 **Competing with:** Team InnovAIT — ISRO's Bharatiya Antariksh Hackathon, PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata), and more
 - 🌱 **Deepening:** Vertex AI, Feast, DVC, MLflow, GitHub Actions CI/CD, Docker/GKE
 - 💬 **Ask me about:** search & planning algorithms, RAG microservices, medical imaging pipelines, or hackathon war stories
 - 📫 **Reach me:** ry9812262@gmail.com
@@ -68,17 +68,21 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📈 Impact at a Glance
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritik650&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik650&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik650&theme=tokyonight&hide_border=true" />
+![Hackathons](https://img.shields.io/badge/🏆_Hackathons-4×_National_Wins-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+![Finals](https://img.shields.io/badge/🎯_Finals-10+_Finishes-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+![Degree](https://img.shields.io/badge/🎓_Dual_Degree-BS_Data_Science_+_BCA-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik650&theme=tokyo-night&hide_border=true" width="100%"/>
+![Tests](https://img.shields.io/badge/🧪_SecureLogin--QA-28%2F28_CI_Tests_Passing-6366F1?style=for-the-badge&labelColor=1a1a2e)
+![BLEU](https://img.shields.io/badge/📊_Image_Captioning-BLEU_0.65_·_ROUGE_0.58-6366F1?style=for-the-badge&labelColor=1a1a2e)
+![MLOps](https://img.shields.io/badge/⚙️_MLOps-Vertex_AI_·_DVC_·_MLflow_·_GKE-6366F1?style=for-the-badge&labelColor=1a1a2e)
+
+![Followers](https://img.shields.io/github/followers/Ritik650?style=for-the-badge&color=1a1a2e&labelColor=1a1a2e&label=Followers&logo=github)
+
 </div>
-
 
 <br/>
 
@@ -89,9 +93,20 @@ Opened [PR #450](https://github.com/Imbad0202/academic-research-skills/pull/450)
 
 <br/>
 
-## 🏅 Achievements & Leadership
+## 🏆 Hackathon Trophy Case — Team InnovAIT
 
-- 🥇 **Team InnovAIT** — 4× National Hackathon Winner, 10+ Finalist Finishes
+<sub>4× National Wins · 10+ Finalist Finishes</sub>
+
+| Competition | Project | Focus |
+|---|---|---|
+| 🛰️ ISRO Bharatiya Antariksh Hackathon 2026 | **VāyuDṛṣṭi** | Satellite air quality data fusion |
+| 🌾 Syngenta AgriTech Hackathon | **Disha** | Causal uplift ML — 6-layer pipeline, 151 passing tests |
+| 🏙️ CONVOKE 8.0 — CIC, University of Delhi <br/><sub>Finalist</sub> | Traffic ABM Simulation | Agent-based bottleneck modeling |
+| 🌏 Asian Hackathon for Green Future 2026 | **AirLens** | Atmospheric source attribution |
+| 💼 Case'X by AIESEC — IIT Delhi | Portfolio Optimization | Exchange product case study |
+
+## 🎓 Leadership & Mentorship
+
 - 🎓 **Deputy Secretary** (former), Kanha House — IIT Madras BS
 - 👨‍🏫 **Online Mentor**, Programming in Python — IIT Madras
 
