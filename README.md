@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritik%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20IIT%20Madras%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ritikyadav-/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%40+IIT+Madras;4x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%2B+Medical+Imaging+Pipelines;MLOps+on+GCP+%7C+RAG+%7C+Search+%26+Planning;Open+to+ML%2FAI+Research+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%40+IIT+Madras;4x+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%2B+Medical+Imaging+Pipelines;MLOps+on+GCP+%7C+RAG+%7C+Search+%26+Planning;Open+to+ML%2FAI+Research+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 name:          "Ritik Yadav"
 role:          "Data Science Undergrad (BS) @ IIT Madras  |  BCA @ MDU Rohtak (concurrent)"
 focus:         ["Agentic AI", "Medical Imaging", "MLOps", "RAG Systems"]
-hackathons:    "4x National Winner · 10+ Finalist Finishes"
+hackathons:    "4x Winner · 10+ Finalist Finishes"
 leadership:    "Former Deputy Secretary, Kanha House (IIT Madras BS)"
 mentorship:    "Online Mentor - Programming in Python, IIT Madras"
 currently:     "Applying for ML/AI research internships (medical imaging + agentic systems)"
