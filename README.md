@@ -1,89 +1,122 @@
-# 👋 Hi there, I’m Ritik Yadav!
+<div align="center">
 
-### ✨ About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritik%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20IIT%20Madras%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=16" width="100%"/>
 
-I’m a **3rd year Data Science student at IIT Madras**.  
-I love building **apps, websites, and systems** that solve real problems I personally face.  
-I enjoy working with **AI, backend systems, automation, and full-stack development**, and turning ideas into real, working products.
+<a href="https://www.linkedin.com/in/ritik-yadav-9447302b7/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%40+IIT+Madras;4x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%2B+Medical+Imaging+Pipelines;MLOps+on+GCP+%7C+RAG+%7C+Search+%26+Planning;Open+to+ML%2FAI+Research+Internships" alt="Typing SVG" />
+</a>
 
-Always learning, always building 🚀
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-yadav-9447302b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry9812262@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritik650)
+<!-- Swap this "#" for your portfolio/resume link -->
+[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white)](#)
 
-## 🌐 Connect with Me
+![Profile Views](https://komarev.com/ghpvc/?username=Ritik650&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-yadav-9447302b7/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ry9812262@gmail.com)
+</div>
 
----
+<br/>
 
-## 💻 Tech Stack
+## 🎯 About Me
 
-### 🛠️ Programming Languages
+```yaml
+name:          "Ritik Yadav"
+role:          "Data Science Undergrad (BS) @ IIT Madras  |  BCA @ MDU Rohtak (concurrent)"
+focus:         ["Agentic AI", "Medical Imaging", "MLOps", "RAG Systems"]
+hackathons:    "4x National Winner · 10+ Finalist Finishes"
+leadership:    "Former Deputy Secretary, Kanha House (IIT Madras BS)"
+mentorship:    "Online Mentor - Programming in Python, IIT Madras"
+currently:     "Applying for ML/AI research internships (medical imaging + agentic systems)"
+```
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- 🔭 **Currently building:** end-to-end ML pipelines — from medical image segmentation to production MLOps on GCP
+- 🧩 **Recently shipped:** [NeuroSeg](https://github.com/Ritik650/NeuroSeg) — a brain MRI segmentation, detection & slice-interpolation pipeline
+- 🏆 **Competing with:** Team InnovAIT — ISRO's Bharatiya Antariksh Hackathon, PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata), and more
+- 🌱 **Deepening:** Vertex AI, Feast, DVC, MLflow, GitHub Actions CI/CD, Docker/GKE
+- 💬 **Ask me about:** search & planning algorithms, RAG microservices, medical imaging pipelines, or hackathon war stories
+- 📫 **Reach me:** ry9812262@gmail.com
 
----
+<br/>
 
-### 🌐 Frontend
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,tailwind&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mysql,mongodb,sqlite&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,gcp,docker,git,github,vercel,figma&theme=dark" />
+</div>
 
----
+<br/>
 
-### 🧩 Backend & APIs
+## 🚀 Featured Projects
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<div align="center">
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 [**NeuroSeg**](https://github.com/Ritik650/NeuroSeg) | End-to-end brain MRI pipeline: tumor segmentation, detection & through-plane slice interpolation | `Python` `PyTorch` |
+| 🖼️ [**Image Captioning**](https://github.com/Ritik650/Image-Captioning-using-Deep-Learning) | ResNet50 + LSTM + Attention on ROCO medical dataset — BLEU 0.65 · ROUGE 0.58 · METEOR 0.60 | `Deep Learning` |
+| 🔍 [**RAG Microservice**](https://github.com/Ritik650/RAG-Microservice) | Retrieval-augmented generation service built for production use | `Python` `FastAPI` |
+| 🎙️ [**Grounded Voice**](https://github.com/Ritik650/grounded-voice) | Real-time voice assistant with grounded, context-aware responses | `Python` |
+| 🤖 [**Quiz Solver Agent**](https://github.com/Ritik650/LLM-Analysis-Quiz-Solver) | Autonomous LLM agent that analyzes and solves quizzes end-to-end | `Python` `LLM Agents` |
+| 🔐 [**SecureLogin-QA**](https://github.com/Ritik650/enterprise-login-automation) | Automated MFA/WebAuthn login test suite — 28 passing CI tests | `Playwright` `Selenium` |
 
-### 🗄️ Databases
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
----
+## 📊 GitHub Analytics
 
-### 📊 Data Science & Machine Learning
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritik650&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik650&layout=compact&theme=tokyonight&hide_border=true" />
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik650&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik650&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
-### ☁️ DevOps, Cloud & Tools
+<br/>
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🏆 GitHub Trophies
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ritik650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
 
-### 🚀 Currently Interested In
+<br/>
 
-- AI-powered applications  
-- Cross-platform systems (PC + Mobile)  
-- Machine Learning & APIs  
-- Automation & intelligent agents  
-- Scalable system design  
+## 🐍 Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ritik650/Ritik650/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
-⭐ *Thanks for visiting my profile!*
+> ⚙️ **Setup note:** the snake animation above is generated by a GitHub Action, not automatically — add [`platane/snk`](https://github.com/Platane/snk) as a workflow in this repo (`Ritik650/Ritik650`) to activate it. Everything else in this README (stats, streaks, trophies, typing text) works immediately with no setup, since they're all just hosted images.
+
+<br/>
+
+## 🌍 Open Source Contributions
+
+**[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** ⭐ 42.7k
+Opened [PR #450](https://github.com/Imbad0202/academic-research-skills/pull/450) documenting a write-scope edge case in the project's guard logic. Cross-model review surfaced a POSIX path-matching regression in the original change; the fix was reworked and merged as [PR #451](https://github.com/Imbad0202/academic-research-skills/pull/451), with original authorship retained via `Co-Authored-By` in the merged commit.
+
+<br/>
+
+## 🏅 Achievements & Leadership
+
+- 🥇 **Team InnovAIT** — 4× National Hackathon Winner, 10+ Finalist Finishes
+  <sub>ISRO Bharatiya Antariksh Hackathon · PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata) · and more</sub>
+- 🎓 **Deputy Secretary** (former), Kanha House — IIT Madras BS
+- 👨‍🏫 **Online Mentor**, Programming in Python — IIT Madras
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>⭐ Thanks for stopping by — always building, always learning.</sub>
+
+</div>
