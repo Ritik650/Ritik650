@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritik%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20IIT%20Madras%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://www.linkedin.com/in/ritik-yadav-9447302b7/">
+<a href="https://www.linkedin.com/in/ritikyadav-/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%40+IIT+Madras;4x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%2B+Medical+Imaging+Pipelines;MLOps+on+GCP+%7C+RAG+%7C+Search+%26+Planning;Open+to+ML%2FAI+Research+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-yadav-9447302b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikyadav-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry9812262@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritik650)
 <!-- Swap this "#" for your portfolio/resume link -->
@@ -92,18 +92,6 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 Opened [PR #450](https://github.com/Imbad0202/academic-research-skills/pull/450) documenting a write-scope edge case in the project's guard logic. Cross-model review surfaced a POSIX path-matching regression in the original change; the fix was reworked and merged as [PR #451](https://github.com/Imbad0202/academic-research-skills/pull/451), with original authorship retained via `Co-Authored-By` in the merged commit.
 
 <br/>
-
-## 🏆 Hackathon Trophy Case — Team InnovAIT
-
-<sub>4× National Wins · 10+ Finalist Finishes</sub>
-
-| Competition | Project | Focus |
-|---|---|---|
-| 🛰️ ISRO Bharatiya Antariksh Hackathon 2026 | **VāyuDṛṣṭi** | Satellite air quality data fusion |
-| 🌾 Syngenta AgriTech Hackathon | **Disha** | Causal uplift ML — 6-layer pipeline, 151 passing tests |
-| 🏙️ CONVOKE 8.0 — CIC, University of Delhi <br/><sub>Finalist</sub> | Traffic ABM Simulation | Agent-based bottleneck modeling |
-| 🌏 Asian Hackathon for Green Future 2026 | **AirLens** | Atmospheric source attribution |
-| 💼 Case'X by AIESEC — IIT Delhi | Portfolio Optimization | Exchange product case study |
 
 ## 🎓 Leadership & Mentorship
 
