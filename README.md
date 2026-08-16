@@ -8,11 +8,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-yadav-9447302b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikyadav-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry9812262@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritik650)
 <!-- Swap this "#" for your portfolio/resume link -->
-[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white)](#)
+<!-- [![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white)](#) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritik650&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -34,7 +34,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 
 - 🔭 **Currently building:** end-to-end ML pipelines — from medical image segmentation to production MLOps on GCP
 - 🧩 **Recently shipped:** [NeuroSeg](https://github.com/Ritik650/NeuroSeg) — a brain MRI segmentation, detection & slice-interpolation pipeline
-- 🏆 **Competing with:** Team InnovAIT — ISRO's Bharatiya Antariksh Hackathon, PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata), and more
+- 🏆 **Competing with:** Team InnovAIT 
 - 🌱 **Deepening:** Vertex AI, Feast, DVC, MLflow, GitHub Actions CI/CD, Docker/GKE
 - 💬 **Ask me about:** search & planning algorithms, RAG microservices, medical imaging pipelines, or hackathon war stories
 - 📫 **Reach me:** ry9812262@gmail.com
@@ -109,7 +109,6 @@ Opened [PR #450](https://github.com/Imbad0202/academic-research-skills/pull/450)
 ## 🏅 Achievements & Leadership
 
 - 🥇 **Team InnovAIT** — 4× National Hackathon Winner, 10+ Finalist Finishes
-  <sub>ISRO Bharatiya Antariksh Hackathon · PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata) · and more</sub>
 - 🎓 **Deputy Secretary** (former), Kanha House — IIT Madras BS
 - 👨‍🏫 **Online Mentor**, Programming in Python — IIT Madras
 
