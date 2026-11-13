@@ -33,7 +33,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 ```
 
 - 🔭 **Currently building:** end-to-end ML pipelines — from medical image segmentation to production MLOps on GCP
-- 📦 **Just shipped:** [Supply Chain Decision Dashboard](https://github.com/Ritik650/supply-chain-decision-dashboard) — 180k orders → DuckDB star schema, stats-tested findings, a one-page decision memo and a [live dashboard](https://ritik650.github.io/supply-chain-decision-dashboard/)
+- 📦 **Just shipped:** [Supply Chain Decision Dashboard](https://github.com/Ritik650/supply-chain-decision-dashboard) — 180k orders → DuckDB star schema, stats-tested findings, a one-page decision memo, a [live dashboard](https://ritik650.github.io/supply-chain-decision-dashboard/) and an LLM text-to-SQL assistant scoring 9/10 on held-out questions
 - 🧩 **Recently shipped:** [NeuroSeg](https://github.com/Ritik650/NeuroSeg) — a brain MRI segmentation, detection & slice-interpolation pipeline
 - 🏆 **Competing with:** Team InnovAIT — ISRO's Bharatiya Antariksh Hackathon, PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata), and more
 - 🌱 **Deepening:** Vertex AI, Feast, DVC, MLflow, GitHub Actions CI/CD, Docker/GKE
@@ -63,7 +63,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📦 [**Supply Chain Decision Dashboard**](https://github.com/Ritik650/supply-chain-decision-dashboard) | 180k orders → star schema with 15 data-quality rules; found First Class late on 100% of items and a 10% discount cap worth $240k–$371k/yr · [Live dashboard](https://ritik650.github.io/supply-chain-decision-dashboard/) | `DuckDB` `SQL` `Power BI` `Python` |
+| 📦 [**Supply Chain Decision Dashboard**](https://github.com/Ritik650/supply-chain-decision-dashboard) | 180k orders → star schema with 15 data-quality rules; found First Class late on 100% of items and a 10% discount cap worth $240k–$371k/yr; text-to-SQL assistant 9/10 on held-out questions · [Live dashboard](https://ritik650.github.io/supply-chain-decision-dashboard/) | `DuckDB` `SQL` `Power BI` `Python` `LLM` |
 | 🧠 [**NeuroSeg**](https://github.com/Ritik650/NeuroSeg) | End-to-end brain MRI pipeline: tumor segmentation, detection & through-plane slice interpolation | `Python` `PyTorch` |
 | 🖼️ [**Image Captioning**](https://github.com/Ritik650/Image-Captioning-using-Deep-Learning) | ResNet50 + LSTM + Attention on ROCO medical dataset — BLEU 0.65 · ROUGE 0.58 · METEOR 0.60 | `Deep Learning` |
 | 🔍 [**RAG Microservice**](https://github.com/Ritik650/RAG-Microservice) | Retrieval-augmented generation service built for production use | `Python` `FastAPI` |
