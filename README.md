@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritik%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20IIT%20Madras%20%7C%20Building%20AI%20systems%20that%20ship&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ritikyadav-/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%40+IIT+Madras;4x+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%2B+Medical+Imaging+Pipelines;MLOps+on+GCP+%7C+RAG+%7C+Search+%26+Planning;Open+to+ML%2FAI+Research+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%40+IIT+Madras;4x+Hackathon+Winner+%F0%9F%8F%86;Building+Agentic+AI+%2B+Medical+Imaging+Pipelines;Turning+Business+Data+into+Decisions+%F0%9F%93%8A;MLOps+on+GCP+%7C+RAG+%7C+Search+%26+Planning;Open+to+ML%2FAI+Research+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 ```yaml
 name:          "Ritik Yadav"
 role:          "Data Science Undergrad (BS) @ IIT Madras  |  BCA @ MDU Rohtak (concurrent)"
-focus:         ["Agentic AI", "Medical Imaging", "MLOps", "RAG Systems"]
+focus:         ["Agentic AI", "Medical Imaging", "MLOps", "RAG Systems", "Business Analytics & BI"]
 hackathons:    "4x Winner · 10+ Finalist Finishes"
 leadership:    "Former Deputy Secretary, Kanha House (IIT Madras BS)"
 mentorship:    "Online Mentor - Programming in Python, IIT Madras"
@@ -33,6 +33,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 ```
 
 - 🔭 **Currently building:** end-to-end ML pipelines — from medical image segmentation to production MLOps on GCP
+- 📦 **Just shipped:** [Supply Chain Decision Dashboard](https://github.com/Ritik650/supply-chain-decision-dashboard) — 180k orders → DuckDB star schema, stats-tested findings, a one-page decision memo and a [live dashboard](https://ritik650.github.io/supply-chain-decision-dashboard/)
 - 🧩 **Recently shipped:** [NeuroSeg](https://github.com/Ritik650/NeuroSeg) — a brain MRI segmentation, detection & slice-interpolation pipeline
 - 🏆 **Competing with:** Team InnovAIT — ISRO's Bharatiya Antariksh Hackathon, PGDBA Analytics Conclave (IIM Calcutta × IIT Kharagpur × ISI Kolkata), and more
 - 🌱 **Deepening:** Vertex AI, Feast, DVC, MLflow, GitHub Actions CI/CD, Docker/GKE
@@ -46,7 +47,12 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,tailwind&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mysql,mongodb,sqlite&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,gcp,docker,git,github,vercel,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,gcp,docker,git,github,vercel,figma&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-1a1a2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/statsmodels-4B5563?style=for-the-badge" />
 </div>
 
 <br/>
@@ -57,6 +63,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📦 [**Supply Chain Decision Dashboard**](https://github.com/Ritik650/supply-chain-decision-dashboard) | 180k orders → star schema with 15 data-quality rules; found First Class late on 100% of items and a 10% discount cap worth $240k–$371k/yr · [Live dashboard](https://ritik650.github.io/supply-chain-decision-dashboard/) | `DuckDB` `SQL` `Power BI` `Python` |
 | 🧠 [**NeuroSeg**](https://github.com/Ritik650/NeuroSeg) | End-to-end brain MRI pipeline: tumor segmentation, detection & through-plane slice interpolation | `Python` `PyTorch` |
 | 🖼️ [**Image Captioning**](https://github.com/Ritik650/Image-Captioning-using-Deep-Learning) | ResNet50 + LSTM + Attention on ROCO medical dataset — BLEU 0.65 · ROUGE 0.58 · METEOR 0.60 | `Deep Learning` |
 | 🔍 [**RAG Microservice**](https://github.com/Ritik650/RAG-Microservice) | Retrieval-augmented generation service built for production use | `Python` `FastAPI` |
@@ -79,6 +86,7 @@ currently:     "Applying for ML/AI research internships (medical imaging + agent
 ![Tests](https://img.shields.io/badge/🧪_SecureLogin--QA-28%2F28_CI_Tests_Passing-6366F1?style=for-the-badge&labelColor=1a1a2e)
 ![BLEU](https://img.shields.io/badge/📊_Image_Captioning-BLEU_0.65_·_ROUGE_0.58-6366F1?style=for-the-badge&labelColor=1a1a2e)
 ![MLOps](https://img.shields.io/badge/⚙️_MLOps-Vertex_AI_·_DVC_·_MLflow_·_GKE-6366F1?style=for-the-badge&labelColor=1a1a2e)
+![SupplyChain](https://img.shields.io/badge/📦_Supply_Chain_BI-180k_orders_·_15_data--quality_rules-6366F1?style=for-the-badge&labelColor=1a1a2e)
 
 ![Followers](https://img.shields.io/github/followers/Ritik650?style=for-the-badge&color=1a1a2e&labelColor=1a1a2e&label=Followers&logo=github)
 
